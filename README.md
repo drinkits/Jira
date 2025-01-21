@@ -1,3 +1,3 @@
 # Jira
 
-Some Javascript for old Jira. Not recommended to use.
+Some Javascript for old Jira. Not recommended to use now.
